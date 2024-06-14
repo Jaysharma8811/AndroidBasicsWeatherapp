@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/itemA"
+    android:icon="@drawable/sunrise"
+    android:title="Sunrise"
+
+    />
+    <item android:id="@+id/itemB"
+        android:icon="@drawable/sunset"
+        android:title="Sunset"
+
+        />
+    <item android:id="@+id/itemC"
+        android:icon="@drawable/humidity"
+        android:title="Humidity"
+
+        />
+</menu>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">shadiclone.com</string>
+    <string name="app_name2">Travel App</string>
+    <string name="backwardButtonDis">backwardButton</string>
+    <string name="forwardButtonDis">forwardButton</string>
+    <string name="monumentImageDis">monumentImage</string>
+    <string name="indiaGate">India Gate</string>
+    <string name="Inderaprastah">Inderaprastah</string>
+    <string name="SplashScreenTextWeather">Weather Matters,\nWe\'ve Got the Details</string>
+    <string name="SplashScreenTextDesign">DESIGN BY\nJay Sharma</string>
+    <string name="SearchViewHintMain">Search for a city</string>
+    <string name="openDrawer">Open Navigation drawer</string>
+    <string name="closeDrawer">Close Navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
